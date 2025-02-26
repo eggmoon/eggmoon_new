@@ -246,17 +246,14 @@ button:focus {
   display:flex;
   flex-direction: column;
   padding: 1rem;
-  gap: 0.5rem;
+  margin
 }
 .bar__metadata{
-  display:flex;
-  justify-content:space-between;
+
 }
 .bar__bg{
-  width: 100%;
-  height: 3px;
-  background-color: var(--color-primary-varient);
+
 }
 .bar__value{
-  background-color: var(--color-accent);
+
 }

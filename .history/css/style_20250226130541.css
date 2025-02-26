@@ -253,10 +253,8 @@ button:focus {
   justify-content:space-between;
 }
 .bar__bg{
-  width: 100%;
-  height: 3px;
-  background-color: var(--color-primary-varient);
+
 }
 .bar__value{
-  background-color: var(--color-accent);
+
 }
