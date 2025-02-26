@@ -529,7 +529,7 @@ button:focus {
   right: 1.5rem;
  }
  .show-menu{
-  z-index: 99;
+  
   background-color:var(--color-primary-variant);
   position:fixed;
   top: 3rem;

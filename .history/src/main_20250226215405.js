@@ -1,5 +1,5 @@
 const $button = document.querySelector('#show-menu');
-const $header = document.querySelector('.header');
+const 
 $button.addEventListener('click', ()=>{
-  $header.classList.toggle('header--show');
+
 })
