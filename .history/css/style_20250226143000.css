@@ -318,43 +318,9 @@ button:focus {
  }
 
  .project{
-  position:relative;
-  border-radius:8px;
-  overflow:hidden;
+  width:100
  }
 
  .project__img{
-  width: 100%;
- }
 
- .project__metadata{
-  opacity: 0;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: var(--color-black);
-  display:flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  transition: all 250ms ease-in;
-  transform: translateY(-10px);
- }
-
- .project__metadata:hover {
-  opacity:0.8;
-  transform: translateY(0px);
- }
- .project__title:after{
-  content: '';
-  display: block;
-  position:relative;
-  left:50%;
-  transform: translate(-60%);
-  width: 80px;
-  height: 2px;
-  background-color: var(--color-accent);
-  margin:0.5rem;
  }

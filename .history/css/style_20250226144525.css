@@ -352,7 +352,7 @@ button:focus {
   display: block;
   position:relative;
   left:50%;
-  transform: translate(-60%);
+  transform: translate(-70%);
   width: 80px;
   height: 2px;
   background-color: var(--color-accent);

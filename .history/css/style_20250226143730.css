@@ -347,14 +347,3 @@ button:focus {
   opacity:0.8;
   transform: translateY(0px);
  }
- .project__title:after{
-  content: '';
-  display: block;
-  position:relative;
-  left:50%;
-  transform: translate(-60%);
-  width: 80px;
-  height: 2px;
-  background-color: var(--color-accent);
-  margin:0.5rem;
- }

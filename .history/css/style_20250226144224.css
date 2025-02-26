@@ -351,10 +351,5 @@ button:focus {
   content: '';
   display: block;
   position:relative;
-  left:50%;
-  transform: translate(-60%);
-  width: 80px;
-  height: 2px;
-  background-color: var(--color-accent);
-  margin:0.5rem;
+  left:50
  }
